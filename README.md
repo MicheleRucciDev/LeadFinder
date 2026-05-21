@@ -102,7 +102,7 @@ Make sure you have these installed before getting started:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/lead-finder.git
+git clone https://github.com/MicheleRucciDev/LeadFinder.git
 cd lead-finder
 ```
 
