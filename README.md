@@ -273,29 +273,6 @@ The exported CSV uses `;` as separator and UTF-8 BOM encoding for **immediate Ex
 
 ---
 
-## 🗺️ Roadmap
-
-- [ ] 🔐 User authentication and search history
-- [ ] 🤖 AI Lead Scoring (automatic potential client scoring)
-- [ ] 📧 Integrated email automation
-- [ ] 🗄️ Persistent database (PostgreSQL / Supabase)
-- [ ] 💳 Plans and payments
-- [ ] 📱 Mobile app
-- [ ] 🌍 Multi-platform scraping (Yelp, TripAdvisor, Facebook Places)
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
-
----
-
-## 📄 License
-
-[MIT](LICENSE) — free to use, modify and distribute.
-
----
 
 <div align="center">
 
