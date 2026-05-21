@@ -1,0 +1,70 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/*.pyd
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# ── Node ──────────────────────────────────────────────────────────────────────
+front-end/node_modules/
+front-end/dist/
+front-end/.vite/
+front-end/.eslintcache
+
+# ── Database / Storage ────────────────────────────────────────────────────────
+*.db
+*.sqlite
+*.sqlite3
+
+# ── Log files ─────────────────────────────────────────────────────────────────
+*.log
+logs/
+backend/logs/
+
+# ── ChromeDriver (scaricato da webdriver-manager) ─────────────────────────────
+backend/chromedriver*
+backend/.wdm/
+.wdm/
+
+# ── Export CSV generati dall'app ──────────────────────────────────────────────
+*.csv
+
+# ── Env / Segreti ─────────────────────────────────────────────────────────────
+.env
+.env.local
+.env.production
+.env.*
+secrets.json
+config.local.*
+
+# ── OS ────────────────────────────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+Thumbs.db:encryptable
+desktop.ini
+ehthumbs.db
+
+# ── Editor ────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+
+# ── File di lavoro interni (non utili per chi clona la repo) ──────────────────
+spiegazione-tool.txt
+front-end-tool-scaping.txt
+LINKEDIN-POST.md
+docs/
+
+# ── Claude ────────────────────────────────────────────────────────────────────
+.claude/
