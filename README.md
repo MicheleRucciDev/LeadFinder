@@ -185,24 +185,7 @@ LeadFinder/
 - **First scrape** may take 2-5 minutes — Chrome works in the background on Google Maps
 - **Demo mode**: if the backend is not running, the app generates sample data locally
 
----
 
-## 🗺️ Roadmap
-
-- [ ] 🌐 Cloud-hosted version (no installation needed)
-- [ ] 🔐 User authentication and search history
-- [ ] 🤖 AI Lead Scoring
-- [ ] 📧 Integrated email automation
-- [ ] 🗄️ Persistent database (PostgreSQL / Supabase)
-- [ ] 💳 Plans and payments
-
----
-
-## 📄 License
-
-[MIT](LICENSE) — free to use, modify and distribute.
-
----
 
 <div align="center">
 
