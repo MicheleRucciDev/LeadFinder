@@ -12,6 +12,7 @@
 
 *Ethical Google Maps scraping · No API key required · 100% free*
 
+My Linkedin for more info❤️: www.linkedin.com/in/michele-rucci-966352275
 </div>
 
 ---
