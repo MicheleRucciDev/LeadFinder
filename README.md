@@ -21,7 +21,7 @@ My Linkedin for more info❤️: www.linkedin.com/in/michele-rucci-966352275
 
 **Lead Finder Dashboard** is a **local lead generation tool** built for freelancers, web agencies, and digital consultants.
 
-Pick a city and a business category (e.g. *restaurants in London*, *gyms in Manchester*) and the app **automatically browses Google Maps**, collects each business's data, and instantly shows you who already has a website — and who doesn't.
+Pick a city and a business category (e.g. *restaurants in London*, *gyms in Manchester*) and the app **automatically browses Google Maps**, collects each business's data, and instantly shows you who has no website.
 
 > 🎯 **Your ideal target?** Businesses with no website — they're the ones who need you most.
 
@@ -41,21 +41,31 @@ Pick a city and a business category (e.g. *restaurants in London*, *gyms in Manc
 | 🖥️ **GUI Launcher** | Start everything with one click — no terminal needed |
 
 ---
-## 💾 The launcher
 
+## 💾 The Launcher
+
+<div align="center">
 <img width="696" height="680" alt="LEAD-FINDER-STARTER" src="https://github.com/user-attachments/assets/aae12f12-8fb2-4bae-abe0-55403c9e4952" />
----
-## 🏡 Home page MVP
+</div>
 
+---
+
+## 🏡 Home Page MVP
+
+<div align="center">
 <img width="1916" height="1075" alt="LEAD-FINDER-HOME" src="https://github.com/user-attachments/assets/80041790-964c-4d0b-aad7-a53771d9d7b0" />
----
-## Live Demo first use
-
-You can go to this link to see the product demo
-
-## https://drive.google.com/drive/folders/10G5YeesGsJnjnw_QSn62Z0p5Z144AgUm?usp=sharing
+</div>
 
 ---
+
+## 🎬 Live Demo
+
+You can view the product demo at this link:
+
+**[View Demo on Google Drive](https://drive.google.com/drive/folders/10G5YeesGsJnjnw_QSn62Z0p5Z144AgUm?usp=sharing)**
+
+---
+
 ## ⚙️ Prerequisites
 
 Make sure you have these installed before getting started:
@@ -98,7 +108,7 @@ npm install
 
 ---
 
-## ▶️ Running the app
+## ▶️ Running the App
 
 ### 🪟 Windows — GUI Launcher
 
@@ -131,7 +141,7 @@ Open your browser at **http://localhost:3000** ✅
 
 ---
 
-## 🕹️ How to use
+## 🕹️ How to Use
 
 ```
 1️⃣  Add cities        →  London, Manchester, Rome...
@@ -147,7 +157,7 @@ Open your browser at **http://localhost:3000** ✅
 
 ---
 
-## 🗂️ Project structure
+## 🗂️ Project Structure
 
 ```
 LeadFinder/
@@ -193,14 +203,14 @@ LeadFinder/
 
 ---
 
-## ⚠️ Important notes
+## ⚠️ Important Notes
 
 - **Scraping respects public data** — only collects information visible on Google Maps
 - **Google may throttle** automated requests: if you get 0 results, wait a few minutes and retry
 - **First scrape** may take 2-5 minutes — Chrome works in the background on Google Maps
 - **Demo mode**: if the backend is not running, the app generates sample data locally
 
-
+---
 
 <div align="center">
 
