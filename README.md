@@ -41,7 +41,21 @@ Pick a city and a business category (e.g. *restaurants in London*, *gyms in Manc
 | 🖥️ **GUI Launcher** | Start everything with one click — no terminal needed |
 
 ---
+## 💾 The launcher
 
+<img width="696" height="680" alt="LEAD-FINDER-STARTER" src="https://github.com/user-attachments/assets/aae12f12-8fb2-4bae-abe0-55403c9e4952" />
+---
+## 🏡 Home page MVP
+
+<img width="1916" height="1075" alt="LEAD-FINDER-HOME" src="https://github.com/user-attachments/assets/80041790-964c-4d0b-aad7-a53771d9d7b0" />
+---
+## Live Demo first use
+
+You can go to this link to see the product demo
+
+## https://drive.google.com/drive/folders/10G5YeesGsJnjnw_QSn62Z0p5Z144AgUm?usp=sharing
+
+---
 ## ⚙️ Prerequisites
 
 Make sure you have these installed before getting started:
