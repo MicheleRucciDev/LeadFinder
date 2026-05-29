@@ -62,7 +62,7 @@ Pick a city and a business category (e.g. *restaurants in London*, *gyms in Manc
 
 You can view the product demo at this link:
 
-**[View Demo on Google Drive]([https://drive.google.com/drive/folders/10G5YeesGsJnjnw_QSn62Z0p5Z144AgUm?usp=sharing](https://drive.google.com/file/d/1AaOvQTIPTpU6SREbRiXa2eRhYjW72ctg/view?usp=drive_link))**
+**[View Demo on Google Drive](https://drive.google.com/file/d/1AaOvQTIPTpU6SREbRiXa2eRhYjW72ctg/view?usp=drive_link)**
 
 ---
 
